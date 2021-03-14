@@ -1,0 +1,37 @@
+body{
+    background: black;
+
+}
+
+.v{
+    border-radius: 30px;
+    border: chartreuse;
+    background-color: darkorange;
+    width: 250px;
+    height: 150px;
+    list-style: none;
+    text-align: center;
+    position: relative;
+}
+
+.con{
+    list-style: none;
+    margin: 30px;
+    text-align: center;
+    color: wheat;
+    background-color: white;
+}
+
+h3{
+    margin: 100px;
+    color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    
+}
+
+.v img{
+ width: 300px;
+ height: 200px;
+}
+
