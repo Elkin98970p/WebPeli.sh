@@ -1,0 +1,181 @@
+body{
+    margin-top: 20px;
+    background-color: #696969;
+}
+
+*{
+    font-family: Arial, Helvetica;
+    
+}
+
+.General{
+    margin: auto;
+    background-color: #696969;
+    height: 750px;
+    width: 1000px;
+}
+
+.Menu{
+    list-style: none;
+    background-color: #4682B4;
+    width: 100%;
+}
+
+.Menu li a{
+    font-size: 18px;
+    padding: 20px;
+    text-decoration: none;
+    color: rgb(253, 253, 253);
+    display: block;
+    text-align: center;
+}
+
+
+.Menu li{
+    display: inline-block;
+}
+
+
+.Menu li a:hover{
+    background: orange;
+}
+
+h3{
+  
+    text-align: center;
+}
+
+.ImgenCine img {
+    margin: 5px;
+    width: 400px;
+    float: left;
+}
+
+.parrafo{
+    padding: auto;
+    padding: 20px;
+    color: rgb(253, 253, 253);
+    font-size: 20px;
+    font-style: italic;
+}
+
+.parrafo2{
+       margin: 30px -1px;
+       width: 100%;
+       height: 100px;
+       background-color: black;
+       color: rgb(175, 175, 202);
+       text-align: center;
+       font-size: 17px;
+       font-family: verdana;
+       font-style: italic;
+       left: 50%;
+       top: 50%;
+      
+     
+   }
+
+   .div2{
+       background-color: rgb(194, 197, 207);
+       width: 400px;
+       height: 1000px;
+       float: right;
+       margin-top: 20px;
+       text-align: center;
+      
+   }
+
+   .Imagen{
+    margin:20px;
+    background-color: rgb(12, 12, 12);
+    width: 560px;
+    height: 150px;
+    float: left;
+    position: relative;
+    margin-top: 20px;
+
+   }
+
+   .div3{
+       margin: 20px;
+    background-color: rgb(150, 155, 168);
+    width: 560px;
+    height: 826px;
+    margin-top: 21%;
+
+   
+}
+
+.h1h{
+    background-color: rgb(199, 193, 193);
+    margin: 6px;
+    padding: 6%;
+    text-align: center;
+}
+
+.Neflix{
+    margin: 40%;
+    width: 400px;
+    height: 100px;
+    text-align: center;
+    background-color: rgb(165, 130, 130);
+    margin-left: 15%;
+}
+
+#prNeflix{
+   padding-top: 6%;
+   
+}
+
+.General img{
+    width: 350px;
+    height: 260px;
+}
+
+.gratis{
+    margin-top: 30%;
+    
+}
+
+.h1h{
+    font-size: 16px;
+}
+
+.otros{
+    list-style: none;
+    font-size: 26px;
+}
+
+.m {
+    margin-top: 0%;
+    background-color: cornsilk;
+    width: 400px;
+    height: 170px;
+    text-align: center;
+}
+
+.masw{
+    list-style: none;
+    font-size: 25px;
+}
+
+.p2{
+    
+    font-size: 16px;
+}
+
+
+
+.Diseño{
+    margin-top: 20%;
+    border-radius: 12px;
+    width: 350px;
+    height: 100px;
+    color: rgb(26, 25, 24);
+    text-align: center;
+    float: right ;
+    float: 10%;
+    font-size: 17px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
